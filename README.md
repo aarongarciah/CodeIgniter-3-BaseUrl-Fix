@@ -1,5 +1,5 @@
 # CodeIgniter 3.0.3 base_url Fix
-A fix to the issue in CodeIgniter 3.0.3 when working in localhost and the $config['base_url'] is wrong.
+A fix to the issue in CodeIgniter 3.0.3 when working in localhost and the `$config['base_url']` is wrong.
 
 ## How to
 Download the `MY_Config.php` file and put it into the `application/core folder of your CodeIgniter project.  
