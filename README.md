@@ -6,7 +6,7 @@ Download the `MY_Config.php` file and put it into the `application/core` folder 
   
 
 ## Important
-if you've set in your config file `application/congif/config.php` another value than "*MY_*" in the `$config['subclass_prefix']` option, change the name of `MY_Config.php` replacing "*MY_*" with your value.  
+If you've set in your config file `application/congif/config.php` another value than "*MY_*" in the `$config['subclass_prefix']` option, change the name of `MY_Config.php` replacing "*MY_*" with your value.  
 
 Example:
 ```
